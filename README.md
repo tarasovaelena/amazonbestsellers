@@ -16,3 +16,5 @@ The purpose of the project is to help publishers and authors understand what are
 **Tech stack:** VS Code with Python 3.12, Jupyter Notebook
 
 **Libraries:** Pandas, NumPy, Seaborn, Metplotlib, Plotly, Pandasql, Circlify, Scikit-Learn, Collections, Re, Nltk, Wordcloud
+
+**Deepnote link:** https://deepnote.com/workspace/Elenas-projects-7e7c61a3-d0dd-45aa-9dc9-646f4826a5f0/project/What-Amazon-bestseller-is-made-of-f53d8d57-7938-4dd4-b5ac-5544ab6e6fcb/notebook/d858a5d5acda4d87ac74892065650de4
