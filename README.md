@@ -3,7 +3,7 @@
 The purpose of the project is to help publishers and authors understand what are the main characteristics that define an Amazon bestseller by analyzing the annual data for Top 50 Amazon Bestselling Books between 2009 and 2022.
 
 **Questions answered in the project**
-- Did books become more expensive over the 12 years between 2009 and 2022?
+- Did books become more expensive over the 13 years between 2009 and 2022?
 - Which book type has a better user rating?
 - Which book type has more reviews?
 - Which books are more expensive?
