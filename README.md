@@ -1,4 +1,6 @@
 # What Makes an Amazon Bestseller? #
+<img width="1584" height="396" alt="Beige Feminine Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/c7d3fbc0-fceb-4592-81fc-ba8cc99a0137" />
+
 ### Analyzing 13 years of Amazon’s Top 50 Bestselling Books (2009–2022) ###
 This project analyzes Amazon’s Top 50 Bestselling Books from 2009 to 2022 to identify common patterns in pricing, user ratings, review volume, genre distribution, and book title structure.
 The analysis focuses on **describing long-term trends among bestsellers**, rather than predicting success, and aims to provide insights into how bestselling books tend to be positioned in the market.
