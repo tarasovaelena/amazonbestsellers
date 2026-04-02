@@ -32,11 +32,16 @@ The analysis focuses on **describing long-term trends among bestsellers**, rathe
 * Applied **NLP techniques (TF-IDF) and K-means clustering** to explore common language patterns in bestseller titles.
 
 ## Results & Insights ##
-* Average bestseller prices fluctuated over time, with a noticeable increase beginning around 2020.
+* Average bestseller prices fluctuated between $10 and $15 from 2009 to 2019, hitting its lowest point at $10.08 in 2019, before recovering to $12.50 by 2022, likely reflecting the stabilization of ebook pricing after a decade of digital disruption.
 * Fiction and Non-Fiction books showed **similar average user ratings**, with only minor differences between genres.
 * Fiction titles accumulated a higher total number of reviews across most years, despite Non-Fiction titles appearing more frequently in the Top 50.
 * Bestseller titles often include **subtitles, series information, or descriptive phrases**, resulting in an average title length of over eight words.
 * Title clustering revealed **recurring themes and language patterns among bestselling books**, highlighting how successful titles are commonly structured rather than what causes success.
+
+## How to Run
+1. Clone the repository: git clone https://github.com/tarasovaelena/amazonbestsellers
+2. Install dependencies: pip install -r requirements.txt
+3. Open the notebook: jupyter notebook amazon_bestsellers.ipynb
 
 ## Limitations ##
 * The analysis is limited to **Top 50 bestsellers** and does not represent the broader book market.
